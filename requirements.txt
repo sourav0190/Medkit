@@ -1,0 +1,10 @@
+# torch
+# transformers
+# xgboost
+# scikit-learn
+torch
+transformers
+xgboost
+scikit-learn
+einops
+reportlab
